@@ -114,13 +114,13 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ## Other ressources
 
 ### Community
-- [Iso 27001 Forum](https://www.iso27001security.com/html/forum.html)
-- [r/Compliance](https://www.reddit.com/r/Compliance/)
+- [Iso 27001 Forum](https://www.iso27001security.com/) - ISO27K forum.
+- [r/Compliance](https://www.reddit.com/r/Compliance/) - Reddit compliance community.
 
 ### Content
-- [ISO27001.zip](https://www.iso27001.zip/)
+- [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
-- [SOC2 FYI](https://www.soc2.fyi/)
+- [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
 
 
 ## Contributing
