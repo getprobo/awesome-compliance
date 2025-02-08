@@ -131,3 +131,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Contributing
 Feel free to open a pull request if you'd like to add or update resources. Please ensure your contribution follows the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
+
+## Related
+
+- [Awesome GDPR](https://github.com/oppoverbakke/awesome-gdpr).
