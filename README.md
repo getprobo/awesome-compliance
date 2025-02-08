@@ -6,8 +6,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Contents
 - [Frameworks & standards](#frameworks--standards)
-- [Tools & software](#tools--software)
-- [Communities & Forums](#communities--forums)
+- [Tools & softwares](#tools--softwares)
 - [Other ressources](#other-ressources)
 
 ## Frameworks & standards
