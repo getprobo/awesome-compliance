@@ -132,7 +132,12 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [SecurityRAT](https://securityrat.github.io/) - Security requirement management tool  - **Open source**
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure  - **Open source**
 
-## Other
+## Other ressources
+
+### Assessment Tools
+- [NIST Risk Assessment Tool](https://csrc.nist.gov/projects/risk-management/risk-assessment-tools)
+- [CIS-CAT Pro](https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/)
+- [Compliance Forge](https://www.complianceforge.com/) - Security policy templates
 
 ### Blogs
 - [Compliance Week](https://www.complianceweek.com/)
@@ -147,6 +152,11 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Six Sigma](https://www.sixsigma.com/) - Process improvement methodology
 - [TQM](https://asq.org/quality-resources/total-quality-management) - Total Quality Management
 
+### Policy Templates
+- [SANS Policy Templates](https://www.sans.org/information-security-policy/)
+- [NIST SP 800-53 Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+
 ### Management guidelines
 - [COBIT](https://www.isaca.org/resources/cobit) - Framework for governance and management of IT
 - [COSO Framework](https://www.coso.org/) - Internal Control & Enterprise Risk Management
@@ -156,3 +166,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [ISACA Newsletter](https://www.isaca.org/resources/news-and-trends/newsletters)
 - [NIST Cybersecurity Insights](https://www.nist.gov/cybersecurity)
 - [Compliance Week Newsletter](https://www.complianceweek.com/newsletters)
+
+  
+## Contributing
+Feel free to open a pull request if you'd like to add or update resources. Please ensure your contribution follows the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
