@@ -63,9 +63,9 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - Risk management framework for AI governance (self-declarative)
 - [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) - Personal Information Protection and Electronic Documents Act (self-declarative)
 - [PCI DSS](https://www.pcisecuritystandards.org/) - Payment Card Industry Data Security Standard (Annual assessment)
-- [SOC 1](https://www.aicpa.org/soc) - Reporting on internal financial controls (Annual audit)
-- [SOC 2](https://www.aicpa.org/soc) - Service Organization Control reports (Annual audit)
-- [SOC 3](https://www.aicpa.org/soc) - Public report summarizing SOC 2 compliance (Annual audit)
+- [SOC 1](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-1) - Reporting on internal financial controls (Annual audit)
+- [SOC 2](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) - Service Organization Control reports (Annual audit)
+- [SOC 3](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-3) - Public report summarizing SOC 2 compliance (Annual audit)
 - [US Data Privacy (USDP)](https://iapp.org/) - Generalized US data privacy regulations (self-declarative)
 
 ## Tools & softwares
