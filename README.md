@@ -70,108 +70,65 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Tools & softwares
 ### Compliance automation
-- [Chef Compliance](https://github.com/chef/inspec) - DevOps-driven compliance automation and security testing.  - **Open source**
-- [Comply](https://github.com/strongdm/comply) - SOC2 automation tool that generates and manages policies and evidence - **Open source**
-- [Conformio](https://conformio.com/) - ISO management system
-- [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS
-- [Effivity](https://www.effivity.com/) - ISO 9001 QMS software
-- [Kintent](https://www.kintent.com/) - Trust management platform for SOC 2, ISO 27001
-- [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more
-- [OpenControl](https://github.com/opencontrol/compliance-masonry) - Compliance-as-Code for security frameworks like NIST 800-53, FedRAMP, and CIS. - **Open source**
-- [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more - **Open source**
-- [QualityMaster](https://qualitymaster.com/) - ISO 9001 compliance
-- [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA
-- [SimplerQMS](https://simplerqms.com/) - ISO 9001 specific QMS
-- [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001
-- [Strike Graph](https://www.strikegraph.com/) - Security compliance automation
-- [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management
-- [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001
-- [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance
+- [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
+- [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
+- [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
+- [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
+- [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more - **Open source**.
+- [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
+- [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001.
+- [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
+- [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
+- [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
+- [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
 
 ### ESG & sustainability platforms
-- [Benchmark ESG](https://www.benchmarkdigital.com/) - ESG performance management
-- [Cority](https://www.cority.com/) - EHS and quality management
-- [Diligent ESG](https://www.diligent.com/solutions/esg/) - ESG and board governance
-- [Ecovadis](https://ecovadis.com/) - Business sustainability ratings
-- [Enablon](https://enablon.com/) - Integrated ESG and risk management
-- [FigBytes](https://figbytes.com/) - ESG impact management
-- [Persefoni](https://persefoni.com/) - Climate management and accounting
-- [Novisto](https://novisto.com/) - ESG data management
-- [Sphera](https://sphera.com/) - ESG performance and risk management
-- [Watershed](https://watershed.com/) - Carbon management platform
+- [Benchmark ESG](https://www.benchmarkdigital.com/) - ESG performance management.
+- [Diligent ESG](https://www.diligent.com/solutions/esg/) - ESG and board governance.
+- [Locus Technologies](https://locustec.com/) - ESG reporting and EHS compliance.
+- [Novata](https://novata.com/) - ESG solution.
+- [Novisto](https://novisto.com/) - ESG data management.
+- [Proof](https://proof.io/) - ESG data management.
+- [Sametrica](https://sametrica.com/) - ESG data collection.
+- [Workiva](https://www.persefoni.com/partners/workiva) - Financial and ESG reporting platform.
 
 ### GRC
-- [360Compliance](https://www.360compliance.com/) - Global compliance management for regulated industries
-- [Aptible](https://www.aptible.com/) - Compliance management for healthcare and security-sensitive industries
-- [Archer](https://www.archerirm.com/) - RSA's GRC platform
-- [CyberSaint](https://www.cybersaint.io/) - Cyber risk and compliance automation
-- [Galvanize HighBond](https://www.wegalvanize.com/) - Comprehensive GRC platform
-- [Hyperproof](https://hyperproof.io/) - Compliance operations platform with automated workflows
-- [IBM OpenPages](https://www.ibm.com/products/openpages-with-watson) - AI-enhanced GRC
-- [LogicGate](https://www.logicgate.com/) - Risk Cloud platform
-- [MetricStream](https://www.metricstream.com/) - GRC Cloud platform
-- [Netwrix](https://www.netwrix.com/) - IT audit and compliance management platform
-- [OneTrust](https://www.onetrust.com/) - Privacy & GRC platform
-- [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-and-compliance.html) - Enterprise GRC platformx
-- [Reciprocity ROAR Platform](https://reciprocity.com/) - Risk observation & analysis
-- [TrustCloud](https://www.trustcloud.ai/) - GRC automation with AI-powered risk assessment
-
-#### Industry-specific quality
-- [AssurX](https://www.assurx.com/) - Regulated industries QMS
-- [BIOVIA](https://www.3ds.com/products-services/biovia/) - Lab quality management
-- [BlueYonder Quality](https://blueyonder.com/) - Supply chain quality
-- [QAD EQMS](https://www.qad.com/) - Manufacturing quality
-- [QualityKick](https://www.qualitykick.com/) - Life sciences QMS
-- [Siemens Opcenter](https://www.plm.automation.siemens.com/) - Manufacturing quality
-- [TrackWise](https://www.spartasystems.com/) - Life sciences quality management
-- [ZenQMS](https://www.zenqms.com/) - Life sciences quality management
+- [AuditBoard](https://www.auditboard.com/) - Audit, risk and compliance management platform.
+- [Archer](https://www.archerirm.com/) - RSA's GRC platform.
+- [Hyperproof](https://hyperproof.io/) - Compliance operations platform with automated workflows.
+- [LogicGate](https://www.logicgate.com/) - Risk Cloud platform.
+- [MetricStream](https://www.metricstream.com/) - GRC Cloud platform.
+- [Onspring](https://www.onspring.com/) - Versatile GRC software.
+- [OneTrust](https://www.onetrust.com/) - Privacy & GRC platform.
+- [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-and-compliance.html) - Enterprise GRC platform.
+- [TrustCloud](https://www.trustcloud.ai/) - GRC automation.
 
 ### Risk & compliance management
-- [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. - **Open source**
+- [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. - **Open source**.
 
 ### Security assessment
-- [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques   - **Open source**
-- [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner  - **Open source**
-- [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System  - **Open source**
-- [Wazuh](https://github.com/wazuh) - Security monitoring platform  - **Open source**
-- [SecurityRAT](https://securityrat.github.io/) - Security requirement management tool  - **Open source**
-- [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure  - **Open source**
+- [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner  - **Open source**.
+- [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System  - **Open source**.
+- [Wazuh](https://github.com/wazuh) - Security monitoring platform  - **Open source**.
+- [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure  - **Open source**.
 
 ## Other ressources
-
-### Assessment tools
-- [NIST Risk Assessment Tool](https://csrc.nist.gov/projects/risk-management/risk-assessment-tools)
-- [CIS-CAT Pro](https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/)
-- [Compliance Forge](https://www.complianceforge.com/) - Security policy templates
 
 ### Blogs
 - [Compliance Week](https://www.complianceweek.com/)
 - [Risk.net](https://www.risk.net/)
 - [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
 
-### Industry best practices & methodologies
-- [Baldrige Framework](https://www.nist.gov/baldrige) - Performance excellence framework
-- [CMMI](https://cmmiinstitute.com/) - Capability Maturity Model Integration
-- [EFQM Model](https://www.efqm.org/) - European Foundation for Quality Management
-- [Lean Manufacturing](https://www.lean.org/) - Lean production principles
-- [Six Sigma](https://www.sixsigma.com/) - Process improvement methodology
-- [TQM](https://asq.org/quality-resources/total-quality-management) - Total Quality Management
+### Industry best practices, guidelines & methodologies
+- [Baldrige Framework](https://www.nist.gov/baldrige) - Performance excellence framework.
+- [CMMI](https://cmmiinstitute.com/) - Capability Maturity Model Integration.
+- [COBIT](https://www.isaca.org/resources/cobit) - Framework for governance and management of IT.
+- [COSO Framework](https://www.coso.org/) - Internal Control & Enterprise Risk Management.
+- [EFQM Model](https://www.efqm.org/) - European Foundation for Quality Management.
+- [Lean Manufacturing](https://www.lean.org/) - Lean production principles.
+- [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
+- [Six Sigma](https://www.sixsigma.com/) - Process improvement methodology.
+- [TQM](https://asq.org/quality-resources/total-quality-management) - Total Quality Management.
 
-### Policy templates
-- [SANS Policy Templates](https://www.sans.org/information-security-policy/)
-- [NIST SP 800-53 Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-
-### Management guidelines
-- [COBIT](https://www.isaca.org/resources/cobit) - Framework for governance and management of IT
-- [COSO Framework](https://www.coso.org/) - Internal Control & Enterprise Risk Management
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Voluntary cybersecurity framework
-
-### Newsletters
-- [ISACA Newsletter](https://www.isaca.org/resources/news-and-trends/newsletters)
-- [NIST Cybersecurity Insights](https://www.nist.gov/cybersecurity)
-- [Compliance Week Newsletter](https://www.complianceweek.com/newsletters)
-
-  
 ## Contributing
 Feel free to open a pull request if you'd like to add or update resources. Please ensure your contribution follows the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
