@@ -113,21 +113,15 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Other ressources
 
-### Blogs
-- [Compliance Week](https://www.complianceweek.com/)
-- [Risk.net](https://www.risk.net/)
-- [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
+### Community
+- [Iso 27001 Forum](https://www.iso27001security.com/html/forum.html)
+- [r/Compliance](https://www.reddit.com/r/Compliance/)
 
-### Industry best practices, guidelines & methodologies
-- [Baldrige Framework](https://www.nist.gov/baldrige) - Performance excellence framework.
-- [CMMI](https://cmmiinstitute.com/) - Capability Maturity Model Integration.
-- [COBIT](https://www.isaca.org/resources/cobit) - Framework for governance and management of IT.
-- [COSO Framework](https://www.coso.org/) - Internal Control & Enterprise Risk Management.
-- [EFQM Model](https://www.efqm.org/) - European Foundation for Quality Management.
-- [Lean Manufacturing](https://www.lean.org/) - Lean production principles.
+### Content
+- [ISO27001.zip](https://www.iso27001.zip/)
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
-- [Six Sigma](https://www.sixsigma.com/) - Process improvement methodology.
-- [TQM](https://asq.org/quality-resources/total-quality-management) - Total Quality Management.
+- [SOC2 FYI](https://www.soc2.fyi/)
+
 
 ## Contributing
 Feel free to open a pull request if you'd like to add or update resources. Please ensure your contribution follows the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
