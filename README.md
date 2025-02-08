@@ -108,8 +108,8 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ### Security assessment
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner  - **Open source**.
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System  - **Open source**.
-- [Wazuh](https://github.com/wazuh) - Security monitoring platform  - **Open source**.
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure  - **Open source**.
+- [Wazuh](https://github.com/wazuh) - Security monitoring platform  - **Open source**.
 
 ## Other ressources
 
