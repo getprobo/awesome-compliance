@@ -4,7 +4,7 @@ A curated list of awesome resources for Governance, Risk Management, and Complia
 
 This list is intended for **compliance officers, risk managers, auditors, and cybersecurity professionals** or for **people with a compliance need** who need trusted resources for **ISO 27001, SOC 2, SOX, ESG compliance, and more**.
 
-## Frameworks & Standards
+## Frameworks & standards
 
 ### ESG & sustainability
 - [B Corp Certification](https://www.bcorporation.net/) - B Lab's Impact Assessment (Every three year)
@@ -40,7 +40,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html) - Food safety management (Annual surveillance)
 - [ISO/TS 16949](https://www.iatf.org/) - Automotive quality management (Annual surveillance)
   
-### Security & privacy & data protection
+### Security, privacy & data protection
 - [CCPA](https://oag.ca.gov/privacy/ccpa) - California Consumer Privacy Act (self-declarative)
 - [CMMC](https://www.acq.osd.mil/cmmc/) - Cybersecurity framework for government contractors (Annual audit)
 - [CSA STAR](https://cloudsecurityalliance.org/star/) - Cloud security and compliance certification (depend on level)
@@ -83,7 +83,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance
 
-### ESG & Sustainability Platforms
+### ESG & sustainability platforms
 - [Benchmark ESG](https://www.benchmarkdigital.com/) - ESG performance management
 - [Cority](https://www.cority.com/) - EHS and quality management
 - [Diligent ESG](https://www.diligent.com/solutions/esg/) - ESG and board governance
@@ -121,10 +121,10 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [TrackWise](https://www.spartasystems.com/) - Life sciences quality management
 - [ZenQMS](https://www.zenqms.com/) - Life sciences quality management
 
-### Risk & Compliance Management
+### Risk & compliance management
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. - **Open source**
 
-### Security Assessment
+### Security assessment
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques   - **Open source**
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner  - **Open source**
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System  - **Open source**
@@ -134,7 +134,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Other ressources
 
-### Assessment Tools
+### Assessment tools
 - [NIST Risk Assessment Tool](https://csrc.nist.gov/projects/risk-management/risk-assessment-tools)
 - [CIS-CAT Pro](https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/)
 - [Compliance Forge](https://www.complianceforge.com/) - Security policy templates
@@ -152,7 +152,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Six Sigma](https://www.sixsigma.com/) - Process improvement methodology
 - [TQM](https://asq.org/quality-resources/total-quality-management) - Total Quality Management
 
-### Policy Templates
+### Policy templates
 - [SANS Policy Templates](https://www.sans.org/information-security-policy/)
 - [NIST SP 800-53 Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
