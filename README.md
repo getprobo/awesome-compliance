@@ -121,6 +121,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
+- [SOC2 reports](https://www.youtube.com/watch?v=jzrn_7vIePM) - Conference on what to expect from SOC2 reports.
 
 
 ## Contributing
