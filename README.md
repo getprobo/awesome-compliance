@@ -106,6 +106,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. - **Open source**.
 
 ### Security assessment
+- [dstack](https://github.com/Dstack-TEE/dstack) - Confidential computing framework for compliant deployment of sensitive workloads with hardware-enforced isolation and attestation - **Open source**.
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner  - **Open source**.
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System  - **Open source**.
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure  - **Open source**.
