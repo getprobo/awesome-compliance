@@ -65,7 +65,9 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [ISO 27017](https://www.iso.org/standard/43757.html) - Cloud-specific security practices (self-declarative).
 - [ISO 27018](https://www.iso.org/standard/76559.html) - Cloud privacy controls for protecting PII (self-declarative).
 - [ISO 27701](https://www.iso.org/standard/71670.html) - Privacy Information Management System standard (Annual audit).
-- [Microsoft SSPA](https://www.microsoft.com/en-us/trust-center/privacy/data-protection-requirements) - Microsoft's Supplier Security & Privacy Assurance (Annual audit).
+- [Microsoft SSPA](https://www.microsoft.com/en-us/trust-center/privacy/data-protection-requirements) -
+- 
+- [KYC Analyst](https://github.com/vyayasan/kyc-analyst) - Open-source KYC/AML compliance automation plugin for Claude Cowork, Claude Code, or any Claude client. Features 17 mandatory human-in-the-loop checkpoints, deterministic risk scoring, and free public data sources. Tested in fintech pilot showing 27 min/case processing with zero vendor lock-in. MIT licensed.Microsoft's Supplier Security & Privacy Assurance (Annual audit).
 - [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - Risk management framework for AI governance (self-declarative).
 - [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) - Personal Information Protection and Electronic Documents Act (self-declarative).
 - [SOC 1](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-1) - Reporting on internal financial controls (Annual audit).
