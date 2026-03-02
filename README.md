@@ -7,7 +7,9 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 ## Contents
 
 - [Frameworks & standards](#frameworks--standards)
+  - [Web accessibility](#web-accessibility)
 - [Tools & softwares](#tools--softwares)
+  - [Web accessibility testing](#web-accessibility-testing)
 - [Other ressources](#other-ressources)
 
 ## Frameworks & standards
@@ -49,6 +51,15 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [ISO 13485](https://www.iso.org/standard/59752.html) - Medical devices quality management (Annual surveillance).
 - [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html) - Food safety management (Annual surveillance).
 - [ISO/TS 16949](https://www.iatf.org/) - Automotive quality management (Annual surveillance).
+
+### Web accessibility
+
+- [ADA Title II](https://www.ada.gov/law-and-regs/title-ii-2024/) - Americans with Disabilities Act standards for state and local government websites (Compliance deadline April 2026).
+- [ADA Title III](https://www.ada.gov/topics/title-iii/) - Americans with Disabilities Act standards for public accommodations (Ongoing compliance required).
+- [EAA / EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) - European Accessibility Act harmonized standard (Compliance deadline June 2025).
+- [Section 508](https://www.section508.gov/) - Federal accessibility requirements for ICT (Ongoing compliance required).
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/) - Web Content Accessibility Guidelines (self-declarative).
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) - Latest Web Content Accessibility Guidelines with additional success criteria (self-declarative).
 
 ### Security, privacy & data protection
 
@@ -115,6 +126,13 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 ### Risk & compliance management
 
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+
+### Web accessibility testing
+
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility testing engine for websites and applications. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [Pa11y](https://github.com/pa11y/pa11y) - Command-line accessibility testing tool using HTML CodeSniffer. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [RatedWithAI](https://ratedwithai.com/) - AI-powered WCAG 2.2 compliance scanner with issue detection and remediation guidance.
+- [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
 
 ### Security assessment
 
