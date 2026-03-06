@@ -114,6 +114,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Risk & compliance management
 
+- [aiact-audit-log](https://github.com/systima-ai/aiact-audit-log) - Structured, tamper-evident audit logging for EU AI Act Article 12 compliance. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### Security assessment
