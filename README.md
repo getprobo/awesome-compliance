@@ -77,6 +77,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Compliance automation
 
+- [CertiFlow AI](https://github.com/itsoumya-d/certiflow-ai) - Open-source agentic GRC platform with AI agents for continuous SOC 2 and ISO 27001 compliance automation.
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
