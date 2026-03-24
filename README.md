@@ -88,6 +88,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Python SDK for EU AI Act and ISO 42001 compliance evidence generation — OSCAL policy enforcement, CycloneDX ML BOM, bias audits, and Annex IV documentation from ML pipelines. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### ESG & sustainability platforms
 
