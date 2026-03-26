@@ -83,6 +83,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
 - [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
+- [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with governance and observability for regulated industries.
 - [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001.
 - [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
