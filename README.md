@@ -89,6 +89,8 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
 
+- [NeuralFlow](https://github.com/omergili/neuralflow) - EU AI Act Article 50 transparency badge and compliance checker for websites. One script tag, 5.1 KB, zero dependencies. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+
 ### ESG & sustainability platforms
 
 - [Benchmark ESG](https://www.benchmarkdigital.com/) - ESG performance management.
