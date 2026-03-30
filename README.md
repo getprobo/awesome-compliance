@@ -80,6 +80,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
+- [Humadroid](https://humadroid.io/) - AI-powered compliance management for SOC 2, ISO 27001.
 - [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
 - [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
