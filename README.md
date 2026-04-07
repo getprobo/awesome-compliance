@@ -77,6 +77,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Compliance automation
 
+- [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source Python SDK for AI agent audit trails, compliance, and governance with quantum-safe signatures. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
