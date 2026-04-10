@@ -41,6 +41,15 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) - Security controls for protecting Controlled Unclassified Information (CUI).
 - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security & privacy controls for federal agencies (self-declarative).
 
+### Middle East & UAE
+
+- [UAE NESA](https://www.nesa.ae/) - National Electronic Security Authority standards for UAE critical information infrastructure (Annual audit).
+- [UAE PDPL](https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/personal-data-protection-law) - UAE Personal Data Protection Law (self-declarative).
+- [Saudi NCA ECC](https://nca.gov.sa/en/pages/ecc) - Saudi National Cybersecurity Authority Essential Cybersecurity Controls (Annual audit).
+- [SAMA CSF](https://www.sama.gov.sa/) - Saudi Arabian Monetary Authority Cyber Security Framework for the financial sector (Annual assessment).
+- [ADIO AI Governance](https://aidatahub.gov.ae/) - Abu Dhabi Artificial Intelligence and data governance framework (self-declarative).
+- [EU AI Act](https://artificialintelligenceact.eu/) - European Union regulation on AI systems risk management (Annual audit for high-risk AI).
+
 ### Quality management
 
 - [AS9100](https://www.sae.org/standards/as9100/) - Aerospace quality management (Annual surveillance).
