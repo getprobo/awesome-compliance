@@ -88,6 +88,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [Bidda Sovereign Intelligence](https://bidda.com) - AI-native compliance intelligence registry with 3,680 cryptographically-verified nodes across EU AI Act, GDPR, NIST AI 600-1, Basel III, HIPAA, DORA, FATF, and 150+ regulatory frameworks. Every node traces to primary legal instruments with machine-executable workflow logic and avg 7 citations. MCP server at `https://bidda.com/mcp`.
 
 ### ESG & sustainability platforms
 
