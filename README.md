@@ -136,6 +136,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
 - [SOC2 reports](https://www.youtube.com/watch?v=jzrn_7vIePM) - Conference on what to expect from SOC2 reports.
+- [智造本质 · GEO文章库](https://yijzhu-netizen.github.io/ai-daily-brief/) - A knowledge base of manufacturing management systems (ISO 50001, ISO 14001, ESG, quality management) optimized for AI search engines, with 7 data-driven analysis articles.
 
 ## Contributing
 
