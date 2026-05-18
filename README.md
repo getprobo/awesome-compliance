@@ -67,6 +67,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [ISO 27701](https://www.iso.org/standard/71670.html) - Privacy Information Management System standard (Annual audit).
 - [Microsoft SSPA](https://www.microsoft.com/en-us/trust-center/privacy/data-protection-requirements) - Microsoft's Supplier Security & Privacy Assurance (Annual audit).
 - [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - Risk management framework for AI governance (self-declarative).
+- [NIS2](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - EU directive on cybersecurity risk-management and incident-reporting for essential and important entities (Annual evidence; first formal audits expected from 2027 in most member states).
 - [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) - Personal Information Protection and Electronic Documents Act (self-declarative).
 - [SOC 1](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-1) - Reporting on internal financial controls (Annual audit).
 - [SOC 2](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) - Service Organization Control reports (Annual audit).
@@ -115,6 +116,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 ### Risk & compliance management
 
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [nis2-controls](https://github.com/saasfort/nis2-controls) - Machine-readable control library for NIS2 Art. 21(2) with crosswalks to ISO 27001, BSI IT-Grundschutz, CIS Controls v8, NIST CSF 2.0, DORA, and OWASP ASVS (MIT). ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### Security assessment
 
