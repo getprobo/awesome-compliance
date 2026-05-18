@@ -71,6 +71,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [SOC 1](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-1) - Reporting on internal financial controls (Annual audit).
 - [SOC 2](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) - Service Organization Control reports (Annual audit).
 - [SOC 3](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-3) - Public report summarizing SOC 2 compliance (Annual audit).
+- [The Integrity Framework](https://theintegrityframework.org/framework/v1) - Product trustworthiness standard for sub-enterprise AI tools where SOC 2 does not apply (Self-mapped via public INTEGRITY.md). CC BY 4.0.
 - [US Data Privacy (USDP)](https://iapp.org/) - Generalized US data privacy regulations (self-declarative).
 
 ## Tools & softwares
