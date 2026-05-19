@@ -82,6 +82,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
 - [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
 - [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [cra-sbom-evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Annex I Part II (1) preflight: scores CycloneDX/SPDX SBOMs against BSI TR-03183-2 and emits an Article 14 evidence bundle. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
 - [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001.
 - [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
