@@ -88,6 +88,11 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [ai-act-conformity-pack](https://github.com/plusultra-tools/ai-act-conformity-pack) - EU AI Act high-risk conformity-assessment evidence scaffolder. MIT. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [cra-sbom-evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Article 14 SBOM evidence pack with verbatim citations. MIT. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [dora-roi-validator](https://github.com/plusultra-tools/dora-roi-validator) - DORA Register of Information preflight: runs ESA data-quality checks before national submission. MIT. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [mdr-tech-file-gen](https://github.com/plusultra-tools/mdr-tech-file-gen) - MDR Annex II technical-file scaffolder for SaMD manufacturers. MIT. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [regulatory-changelog-rss](https://github.com/plusultra-tools/regulatory-changelog-rss) - Atom feed of EU compliance deadlines and regulatory updates. MIT. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### ESG & sustainability platforms
 
