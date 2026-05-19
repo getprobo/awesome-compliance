@@ -105,6 +105,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [AuditBoard](https://www.auditboard.com/) - Audit, risk and compliance management platform.
 - [Archer](https://www.archerirm.com/) - RSA's GRC platform.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform with automated workflows.
+- [isms.sh](https://github.com/unidoc/isms) - Open-source Information Security Management System for ISO 27001, NIS2, and DORA. Risk register, asset/supplier management, policy lifecycle with Git version control, incident management, and audits. Self-hostable, single Go binary. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [LogicGate](https://www.logicgate.com/) - Risk Cloud platform.
 - [MetricStream](https://www.metricstream.com/) - GRC Cloud platform.
 - [Onspring](https://www.onspring.com/) - Versatile GRC software.
