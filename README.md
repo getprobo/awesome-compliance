@@ -75,6 +75,8 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ## Tools & softwares
 
+- [CausalLayer / FaultKey](https://github.com/smq9sn5jck-coder/causallayer-mcp) - AI liability attribution and compliance certification for EU AI Act. Deterministic audit trails without LLMs.
+
 ### Compliance automation
 
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
