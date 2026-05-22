@@ -9,6 +9,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Frameworks & standards](#frameworks--standards)
 - [Tools & softwares](#tools--softwares)
 - [Other ressources](#other-ressources)
+- [Related](#related)
 
 ## Frameworks & standards
 
@@ -80,6 +81,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
+- [Komos](https://www.komos.ai/use-cases/fcra-adverse-action-automation) - FCRA and regulated operations automation for background screening, banking, insurance, documents, APIs, and audit review workflows.
 - [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
 - [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
@@ -143,4 +145,4 @@ Feel free to open a pull request if you'd like to add or update resources. Pleas
 
 ## Related
 
-- [Awesome GDPR](https://github.com/oppoverbakke/awesome-gdpr).
+- [Awesome GDPR](https://github.com/oppoverbakke/awesome-gdpr) - A curated list of GDPR resources.
