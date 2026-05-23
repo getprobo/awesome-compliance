@@ -100,6 +100,10 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Sametrica](https://sametrica.com/) - ESG data collection.
 - [Workiva](https://www.persefoni.com/partners/workiva) - Financial and ESG reporting platform.
 
+### GDPR scanning
+
+- [TrustYourWebsite](https://trustyourwebsite.com) - Public-website GDPR/cookie scanner for the SMB tier. Complements platform-level compliance tools by auditing the customer-facing layer (cookie banners, legal pages, tracker detection).
+
 ### GRC
 
 - [AuditBoard](https://www.auditboard.com/) - Audit, risk and compliance management platform.
