@@ -87,6 +87,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
+- [Tuning Engines](https://www.tuningengines.com/) - AI control evidence for governed model, MCP, skill, and agent traffic, including policy decisions, approvals, traces, cost analytics, runtime state references, and outcomes.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
 
 ### ESG & sustainability platforms
