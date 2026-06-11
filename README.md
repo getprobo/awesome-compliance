@@ -120,6 +120,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [SIG Lite Answer Library Template](https://github.com/jasonezard/sig-lite-answer-library) - Free CSV template for building a reusable vendor security questionnaire answer library. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Wazuh](https://github.com/wazuh) - Security monitoring platform. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
