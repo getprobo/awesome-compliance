@@ -88,6 +88,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [nisg26.at](https://nisg26.at) — Free, no-signup NIS2 scope check built for Austria's national law (NISG 2026): §-accurate "are we in scope?" assessment (sector + size), §29 registration-pack guidance, deadline tracking (31.12.2026). EU-hosted. DE.
 
 ### ESG & sustainability platforms
 
