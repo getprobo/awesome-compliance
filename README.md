@@ -144,3 +144,4 @@ Feel free to open a pull request if you'd like to add or update resources. Pleas
 ## Related
 
 - [Awesome GDPR](https://github.com/oppoverbakke/awesome-gdpr).
+- [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards).
