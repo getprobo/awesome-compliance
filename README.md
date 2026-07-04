@@ -104,6 +104,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 - [AuditBoard](https://www.auditboard.com/) - Audit, risk and compliance management platform.
 - [Archer](https://www.archerirm.com/) - RSA's GRC platform.
+- [GRC_Claw](https://github.com/AAH20/GRC_Claw) - Open-source GRC automation engine with a 27,596-mapping control crosswalk across 13 frameworks, CLI, SDK, and Terraform provider. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform with automated workflows.
 - [LogicGate](https://www.logicgate.com/) - Risk Cloud platform.
 - [MetricStream](https://www.metricstream.com/) - GRC Cloud platform.
