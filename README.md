@@ -82,6 +82,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
 - [Oneleet](https://oneleet.com/) - End-to-end security compliance automation for SOC 2, ISO 27001, and more.
 - [Probo](https://github.com/getprobo/probo) - Compliance automation platform for SOC 2, ISO 27001 & more. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [Scorifya Controls](https://www.scorifya.com/controls) - Self-hosted SOC 2 and PCI DSS readiness platform with automated cloud checks and an auditor portal.
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
 - [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001.
 - [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
