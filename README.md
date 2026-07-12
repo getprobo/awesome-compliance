@@ -132,6 +132,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Content
 
+- [Free Compliance Policy Templates](https://github.com/ComplianceDocs/compliance-policy-templates) - Open-source policy templates (HIPAA sanction policy, ISO 27001 ISMS scope statement, SOC 2 change management) in Markdown and editable Word, CC BY 4.0.
 - [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
