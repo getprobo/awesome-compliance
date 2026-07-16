@@ -98,6 +98,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Novisto](https://novisto.com/) - ESG data management.
 - [Proof](https://proof.io/) - ESG data management.
 - [Sametrica](https://sametrica.com/) - ESG data collection.
+- [SSKG Hub](https://www.sskg-hub.com/) - Expert-guided platform that turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into auditable knowledge graphs.
 - [Workiva](https://www.persefoni.com/partners/workiva) - Financial and ESG reporting platform.
 
 ### GRC
