@@ -136,6 +136,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
 - [SOC2 reports](https://www.youtube.com/watch?v=jzrn_7vIePM) - Conference on what to expect from SOC2 reports.
+- [SOC 2 Readiness Checklist for Startup CTOs](https://wizbang.pro/blog/soc2-readiness-checklist-startup-cto) - Practical 8-week SOC 2 Type II playbook covering IAM, infrastructure security, policies, monitoring, and audit prep.
 
 ## Contributing
 
