@@ -132,6 +132,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Content
 
+- [ISO 27001 Starter Checklist](https://compliancedocshq.com/resources/iso-27001-starter-checklist) - Free 9-step checklist to ISO 27001:2022 audit-readiness, including the Statement of Applicability.
 - [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
