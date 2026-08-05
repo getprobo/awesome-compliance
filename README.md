@@ -77,6 +77,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Compliance automation
 
+- [CATAAM](https://cataam.com/) - Compliance automation for SOC 2, ISO 27001, ISO 42001, HIPAA & PCI-DSS, with built-in attack surface management and breach & attack simulation.
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
