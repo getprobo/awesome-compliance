@@ -112,6 +112,10 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-and-compliance.html) - Enterprise GRC platform.
 - [TrustCloud](https://www.trustcloud.ai/) - GRC automation.
 
+### AI compliance assistants
+
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, and related frameworks: policy drafting, risk assessments, control mapping, and audit prep. Optional EU-region AI mode. Free tools hub at [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
+
 ### Risk & compliance management
 
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
