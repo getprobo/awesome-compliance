@@ -132,6 +132,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Content
 
+- [ComplySaaS](https://www.complysaas.com/) - Educational SaaS vendor compliance research database for reviewing public HIPAA, BAA, PHI, and SOC 2 signals before regulated use.
 - [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
