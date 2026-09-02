@@ -85,6 +85,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Secureframe](https://secureframe.com/) - Automated security compliance for SOC 2, ISO 27001, HIPAA.
 - [Sprinto](https://sprinto.com/) - Compliance automation for SOC 2, ISO 27001.
 - [Scrut](https://www.scrut.io/) - Compliane automation for security frameworks.
+- [StandardOS](https://getstandardos.com/) - ISO 27001, ISO 42001 and ISO 9001 management system with automated evidence collection, EU-hosted, flat price per organization.
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
