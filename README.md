@@ -109,6 +109,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [MetricStream](https://www.metricstream.com/) - GRC Cloud platform.
 - [Onspring](https://www.onspring.com/) - Versatile GRC software.
 - [OneTrust](https://www.onetrust.com/) - Privacy & GRC platform.
+- [open-isms](https://github.com/NISD2/open-isms) - Self-hostable ISMS for the EU NIS 2 Directive, with GDPR, EU AI Act and CRA mappings. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-and-compliance.html) - Enterprise GRC platform.
 - [TrustCloud](https://www.trustcloud.ai/) - GRC automation.
 
