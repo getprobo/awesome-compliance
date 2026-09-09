@@ -88,6 +88,9 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - Pre-audit evidence collection scripts for AWS, GCP, and Azure with SOC 2 control mappings. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [Startup Security Policies](https://github.com/TrazTech-Inc/startup-security-policies) - Open-source security policy templates for SOC 2 and ISO 27001 with framework control mappings. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [Vendor Risk Assessment Toolkit](https://github.com/TrazTech-Inc/vendor-risk-assessment-toolkit) - Vendor risk assessment templates, security questionnaire, scoring framework, and automation tools. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### ESG & sustainability platforms
 
@@ -129,6 +132,11 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 - [Iso 27001 Forum](https://www.iso27001security.com/) - ISO27K forum.
 - [r/Compliance](https://www.reddit.com/r/Compliance/) - Reddit compliance community.
+
+### Curated lists
+
+- [Awesome SOC 2](https://github.com/TrazTech-Inc/awesome-soc2) - Curated list of SOC 2 resources, tools, guides, and platforms.
+- [Awesome Compliance Automation](https://github.com/TrazTech-Inc/awesome-compliance-automation) - Curated list of compliance automation tools and platforms across all major frameworks.
 
 ### Content
 
