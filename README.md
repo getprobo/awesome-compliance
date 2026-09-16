@@ -136,6 +136,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
 - [SOC2 reports](https://www.youtube.com/watch?v=jzrn_7vIePM) - Conference on what to expect from SOC2 reports.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
