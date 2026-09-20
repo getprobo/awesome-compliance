@@ -114,6 +114,8 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Risk & compliance management
 
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
+
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 
 ### Security assessment
