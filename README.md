@@ -65,6 +65,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [ISO 27017](https://www.iso.org/standard/43757.html) - Cloud-specific security practices (self-declarative).
 - [ISO 27018](https://www.iso.org/standard/76559.html) - Cloud privacy controls for protecting PII (self-declarative).
 - [ISO 27701](https://www.iso.org/standard/71670.html) - Privacy Information Management System standard (Annual audit).
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [Microsoft SSPA](https://www.microsoft.com/en-us/trust-center/privacy/data-protection-requirements) - Microsoft's Supplier Security & Privacy Assurance (Annual audit).
 - [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - Risk management framework for AI governance (self-declarative).
 - [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) - Personal Information Protection and Electronic Documents Act (self-declarative).
