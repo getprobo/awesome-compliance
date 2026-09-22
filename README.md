@@ -102,6 +102,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### GRC
 
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Deterministic hiring-policy evaluation with linked reviews, corrections, and Hiring Decision Packs containing signed records.
 - [AuditBoard](https://www.auditboard.com/) - Audit, risk and compliance management platform.
 - [Archer](https://www.archerirm.com/) - RSA's GRC platform.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform with automated workflows.
