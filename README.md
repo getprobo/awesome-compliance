@@ -102,7 +102,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### GDPR scanning
 
-- [TrustYourWebsite](https://trustyourwebsite.com) - Public-website GDPR/cookie scanner for the SMB tier. Complements platform-level compliance tools by auditing the customer-facing layer (cookie banners, legal pages, tracker detection).
+- [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - Complements platform-level GRC tools by scanning the public website layer (cookies, consent banner, trackers, legal pages, WCAG accessibility) against the GDPR and each European country's own rules, e.g. the German Impressum (§ 5 DDG), French mentions légales, Dutch Telecommunicatiewet art. 11.7a and UK PECR. The free scan returns a risk score and issue counts.
 
 ### GRC
 
