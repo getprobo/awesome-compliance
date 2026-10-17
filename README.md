@@ -118,6 +118,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Security assessment
 
+- [aws-compliance-as-code](https://github.com/Mihirajmera/aws-compliance-as-code) - Read-only AWS checks mapped to NIST 800-53, SOC 2, ISO 27001 and CIS, with hashed evidence and OSCAL output. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
