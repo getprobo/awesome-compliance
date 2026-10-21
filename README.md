@@ -77,6 +77,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Compliance automation
 
+- [Attestlane](https://attestlane.to/) - SOC 2 readiness for 1–50 person B2B software teams: free assessment, risk-ranked gaps, policy drafts you approve, and a 39-item evidence checklist.
 - [Drata](https://drata.com/) - Security compliance automation for SOC 2, ISO 27001, PCI DSS.
 - [Fortinet](https://www.fortinet.com/) - Security compliance automation platform.
 - [HIPAA One](https://www.hipaaone.com/) - HIPAA compliance for healthcare businesses.
