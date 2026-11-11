@@ -132,6 +132,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Content
 
+- [ISMS Starter Kit for ISO/IEC 27001:2022](https://github.com/brivellis/isms-starter-kit-iso27001) - Free editable ISMS templates (13 files, Statement of Applicability for all 93 Annex A controls, fictional worked example) by Brivellis.
 - [ISO27001.zip](https://www.iso27001.zip/) - Implementation guide for ISO 27001.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Open framework for understanding adversarial tactics and techniques.
 - [SOC2 FYI](https://www.soc2.fyi/) - Guide comparing available solution for SOC2.
