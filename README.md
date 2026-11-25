@@ -115,6 +115,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 ### Risk & compliance management
 
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [Programmable Watch](https://programmable.watch) - Re-checks US federal suppliers against SAM.gov registrations, exclusions and the Consolidated Screening List; free public name check.
 
 ### Security assessment
 
